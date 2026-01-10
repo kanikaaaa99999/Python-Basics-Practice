@@ -9,5 +9,5 @@ I’m a beginner and I created this repo to stay consistent, track my progress, 
 📂 What’s Inside
 Basic Python programs
 Practice questions
-Small projects (coming soon)
+Small projects 
 Learning notes
